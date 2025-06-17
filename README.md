@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyễn Văn A
 
-<!--
-**cbydainnt/cbydainnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Information Technology student passionate about Java development.  
+📱 I love building website using Java, Spring Boots.  
+📚 I'm currently learning advanced Android.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 📱 [Task Manager App](https://github.com/Datne03/android_N8)
+- 📰 [Ecommerce Website](https://github.com/cbydainnt/timexpert_be)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Java ( Spring Boots, MySQL, MongoDB)
+- Android (Java, SQLite)
+- Git, GitHub, REST APIs
+- UI/UX Basics
+
+## 📫 Contact
+- Email: thanhpc.works@gmail.com
+- LinkedIn: [linkedin.com/in/thanh-phung-47b726225](linkedin.com/in/thanh-phung-47b726225)
+- GitHub: [https://github.com/cbydainnt](https://github.com/cbydainnt)

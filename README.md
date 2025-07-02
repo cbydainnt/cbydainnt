@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Phùng Công Thành
+# 👋 Hi, I'm Phung Cong Thanh
 
 🎓 I'm a Information Technology student passionate about Java development.  
 📱 I love building website using Java, Spring Boots.  
